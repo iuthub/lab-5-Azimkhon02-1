@@ -1,0 +1,11 @@
+Azimkhon;MA;357398523858;MasterCard
+Odil;MB;14013483101;Visa
+Aziz;MC;13471248124;Visa
+Umid;MD;122491249124;MasterCard
+Muhammadamin;ME;123456789;Visa
+Bekzod;MF;987123459876;MasterCard
+Azamat;MG;345670987623;MasterCard
+Javokhir;MH;5679876534;Visa
+Abdurazzoq;MB;234098756790;MasterCard
+Sardor;MC;1234509876543;Visa
+Jakhongir;MA;123456987653;Visa
